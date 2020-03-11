@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    "xax",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:gunpowder"
+    },
+    "a":
+    {
+      "item": "combustiblelemons:lemon"
+    }
+  },
+  "result":
+  {
+    "item": "combustiblelemons:combustible_lemon",
+    "count": 1
+  }
+}
